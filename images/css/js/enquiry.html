@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volunteer &amp; Adoption Enquiry - Hope Haven Animal Rescue</title>
+</head>
+<body>
+    <!-- ========== HEADER ========== -->
+    <header>
+        <div class="logo">
+            <img src="images/logo.png" alt="Hope Haven Animal Rescue Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- ========== MAIN CONTENT ========== -->
+    <main>
+        <section>
+            <h1>Volunteer &amp; Adoption Enquiry</h1>
+            <p>Thank you for your interest in Hope Haven. Please fill out the form below to enquire about volunteering or adopting an animal. We will get back to you within 2-3 business days.</p>
+        </section>
+
+        <section>
+            <!-- The form action="#" submits to the same page. In Part 3 we add JavaScript validation. -->
+            <form action="#" method="post">
+                <h2>Personal Information</h2>
+                <label for="full-name">Full Name: <span style="color:red;">*</span></label>
+                <input type="text" id="full-name" name="full-name" required placeholder="e.g. John Doe">
+                <br>
+
+                <label for="email">Email Address: <span style="color:red;">*</span></label>
+                <input type="email" id="email" name="email" required placeholder="john@example.com">
+                <br>
+
+                <label for="phone">Phone Number: <span style="color:red;">*</span></label>
+                <input type="tel" id="phone" name="phone" required placeholder="082 123 4567">
+                <br>
+
+                <h2>Enquiry Type</h2>
+                <label for="enquiry-type">I am enquiring about:</label>
+                <select id="enquiry-type" name="enquiry-type">
+                    <option value="volunteer">Volunteering</option>
+                    <option value="adoption">Adoption</option>
+                    <option value="sponsorship">Sponsorship</option>
+                    <option value="other">Other</option>
+                </select>
+                <br>
+
+                <h2>Availability (for volunteers)</h2>
+                <label for="availability">When are you available?</label>
+                <select id="availability" name="availability">
+                    <option value="weekdays">Weekdays</option>
+                    <option value="weekends">Weekends</option>
+                    <option value="evenings">Evenings</option>
+                    <option value="flexible">Flexible</option>
+                </select>
+                <br>
+
+                <label for="hours">How many hours per week can you commit?</label>
+                <input type="number" id="hours" name="hours" min="1" max="40" value="4">
+                <br>
+
+                <h2>Your Interests</h2>
+                <p>What areas interest you?</p>
+                <input type="checkbox" id="animal-care" name="interests" value="animal-care">
+                <label for="animal-care">Animal Care</label><br>
+                <input type="checkbox" id="admin" name="interests" value="admin">
+                <label for="admin">Administration</label><br>
+                <input type="checkbox" id="events" name="interests" value="events">
+                <label for="events">Events &amp; Fundraising</label><br>
+                <input type="checkbox" id="fostering" name="interests" value="fostering">
+                <label for="fostering">Fostering</label><br>
+
+                <h2>Experience &amp; Skills</h2>
+                <label for="experience">Tell us about your experience with animals:</label><br>
+                <textarea id="experience" name="experience" rows="4" cols="50" placeholder="Describe any experience you have with animals (pets, volunteer work, etc.)"></textarea>
+                <br>
+
+                <label for="skills">What skills can you bring?</label><br>
+                <textarea id="skills" name="skills" rows="3" cols="50" placeholder="e.g. marketing, social media, event planning, veterinary skills"></textarea>
+                <br>
+
+                <button type="submit">Submit Enquiry</button>
+                <button type="reset">Clear Form</button>
+            </form>
+        </section>
+    </main>
+
+    <!-- ========== FOOTER ========== -->
+    <footer>
+        <p>&copy; 2026 Hope Haven Animal Rescue. All rights reserved.</p>
+        <p>Email: info@hopehaven.org | Phone: (555) 123-4567</p>
+    </footer>
+</body>
+</html>
