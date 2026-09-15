@@ -36,3 +36,20 @@ This project is a professional website for Hope Haven Animal Rescue, a non-profi
 - Added the missing Sitemap (sitemap.jpg).
 - Added the missing Wireframes (homepage-wireframe.jpg, etc.).
 - Updated the README.md with the changelog.
+### Version 2.0.0 - Part 2: CSS Styling and Responsive Design
+- Created external stylesheet (`css/style.css`).
+- Linked stylesheet to all 5 HTML pages.
+- Applied CSS Reset for consistent cross-browser styling.
+- Implemented typography, layout, and visual styles.
+- Added Flexbox for header navigation and Grid for impact stats.
+- Implemented pseudo-classes (:hover, :focus, :active) for interactive elements.
+- Added media queries for tablet (768px) and mobile (480px) breakpoints.
+- Adjusted layout, typography, and navigation for responsive design.
+- Added responsive image techniques.
+
+## References (Updated)
+W3Schools (2024) *CSS Tutorial*. Available at: https://www.w3schools.com/css/ (Accessed: 15 September 2026).
+
+MDN Web Docs (2024) *CSS: Cascading Style Sheets*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 15 September 2026).
+
+Unsplash (2026) *Free Stock Photos*. Available at: https://unsplash.com (Accessed: 13 August 2026).
