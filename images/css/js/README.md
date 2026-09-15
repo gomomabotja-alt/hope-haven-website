@@ -53,3 +53,15 @@ W3Schools (2024) *CSS Tutorial*. Available at: https://www.w3schools.com/css/ (A
 MDN Web Docs (2024) *CSS: Cascading Style Sheets*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 15 September 2026).
 
 Unsplash (2026) *Free Stock Photos*. Available at: https://unsplash.com (Accessed: 13 August 2026).
+## Responsive Design Screenshots
+
+Below are screenshots demonstrating the responsive design across different screen sizes.
+
+### Desktop View
+![Desktop View](images/desktop-view.png)
+
+### Tablet View
+![Tablet View](images/tablet-view.png)
+
+### Mobile View
+![Mobile View](images/mobile-view.png)
