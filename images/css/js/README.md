@@ -65,3 +65,10 @@ Below are screenshots demonstrating the responsive design across different scree
 
 ### Mobile View
 ![Mobile View](images/mobile-view.png)
+
+### Version 3.0.0 - Part 3: Functionality and SEO
+- **Feedback Fix:** Ensured external stylesheet (css/style.css) is correctly linked in ALL 5 HTML pages.
+- **Interactive Elements:** Added an FAQ Accordion, an image gallery Lightbox, and a dynamic search filter.
+- **Form Validation:** Implemented JavaScript validation with error messages for both Enquiry and Contact forms.
+- **SEO:** Added Meta Tags, `robots.txt`, and `sitemap.xml`.
+- **Deployment:** Deployed the website to GitHub Pages.

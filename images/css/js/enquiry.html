@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="description" content="Hope Haven Animal Rescue is a non-profit dedicated to rescuing and rehoming abandoned animals.">
+<meta name="keywords" content="animal rescue, adopt a dog, volunteer, animal shelter, pet adoption">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Volunteer &amp; Adoption Enquiry - Hope Haven Animal Rescue<link rel="stylesheet" href="css/style.css"></title>
+    <title>Volunteer &amp; Adoption Enquiry - Hope Haven Animal Rescue</title>
 </head>
 <body>
     <!-- ========== HEADER ========== -->
@@ -31,7 +34,7 @@
 
         <section>
             <!-- The form action="#" submits to the same page. In Part 3 we add JavaScript validation. -->
-            <form action="#" method="post">
+            <form id="enquiryForm">
                 <h2>Personal Information</h2>
                 <label for="full-name">Full Name: <span style="color:red;">*</span></label>
                 <input type="text" id="full-name" name="full-name" required placeholder="e.g. John Doe">
@@ -100,5 +103,6 @@
         <p>&copy; 2026 Hope Haven Animal Rescue. All rights reserved.</p>
         <p>Email: info@hopehaven.org | Phone: (555) 123-4567</p>
     </footer>
+    <script src="js/script.js"></script>
 </body>
 </html>

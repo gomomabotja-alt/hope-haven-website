@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gomomabotja-alt.github.io/hope-haven-website/sitemap.xml
