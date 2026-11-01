@@ -72,3 +72,21 @@ Below are screenshots demonstrating the responsive design across different scree
 - **Form Validation:** Implemented JavaScript validation with error messages for both Enquiry and Contact forms.
 - **SEO:** Added Meta Tags, `robots.txt`, and `sitemap.xml`.
 - **Deployment:** Deployed the website to GitHub Pages.
+
+### Version 3.0.0 - Part 3: Functionality and SEO
+- **Feedback Fix:** Ensured external stylesheet (css/style.css) is correctly linked in ALL 5 HTML pages.
+- **Interactive Elements:** Added an FAQ Accordion on the About page, an image gallery Lightbox on the Services page, and a dynamic search filter on the Services page.
+- **Form Validation:** Implemented JavaScript validation for both Enquiry and Contact forms, including error messages for empty fields and invalid emails, plus a success message upon submission.
+- **SEO:** Added Meta descriptions, Meta keywords, descriptive image alt tags, `robots.txt`, and `sitemap.xml`.
+- **Deployment:** Deployed the website to GitHub Pages.
+
+## Live Website Link
+You can view the live deployed website here: 
+[https://gomolemomabotja-alt.github.io/hope-haven-website/](https://gomolemomabotja-alt.github.io/hope-haven-website/)
+
+## References (Updated for Part 3)
+MDN Web Docs (2024) *Client-side form validation*. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation (Accessed: 1 November 2026).
+
+W3Schools (2024) *JavaScript DOM Events*. Available at: https://www.w3schools.com/js/js_events.asp (Accessed: 1 November 2026).
+
+Unsplash (2026) *Free Stock Photos*. Available at: https://unsplash.com (Accessed: 13 August 2026).
