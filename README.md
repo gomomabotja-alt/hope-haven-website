@@ -81,7 +81,8 @@ Below are screenshots demonstrating the responsive design across different scree
 - **Deployment:** Deployed the website to GitHub Pages.
 
 ## Live Website Link
-You can view the live deployed website here: 
+s
+here
 https://gomomabotja-alt.github.io/hope-haven-website/
 https://gomomabotja-alt.github.io/hope-haven-website/
 
