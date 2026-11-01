@@ -82,7 +82,8 @@ Below are screenshots demonstrating the responsive design across different scree
 
 ## Live Website Link
 You can view the live deployed website here: 
-[https://gomolemomabotja-alt.github.io/hope-haven-website/](https://gomolemomabotja-alt.github.io/hope-haven-website/)
+https://gomomabotja-alt.github.io/hope-haven-website/
+https://gomomabotja-alt.github.io/hope-haven-website/
 
 ## References (Updated for Part 3)
 MDN Web Docs (2024) *Client-side form validation*. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation (Accessed: 1 November 2026).
